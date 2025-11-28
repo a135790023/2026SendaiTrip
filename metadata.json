@@ -1,0 +1,7 @@
+{
+  "name": "2026SendaiTrip",
+  "description": "Exclusive travel companion for the 2026 Sendai Trip. Includes itinerary, navigation, and AI assistance.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
